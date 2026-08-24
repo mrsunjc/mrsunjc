@@ -2,31 +2,33 @@
 
 > **Computer Engineering Student · AI · Agent · Computer Vision · Open Source**
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+
+<td valign="top" width="50%" align="center">
 
 ## 🚀 About Me
 
-🎓 Computer Engineering undergraduate<br>
-🤖 Interested in AI / Agent / Computer Vision<br>
-🎬 Exploring AI-powered video production<br>
-🧠 Learning how to build AI applications<br>
-🌏 Interested in travel & technology
+<big>🎓 Computer Engineering undergraduate</big><br><br>
+<big>🤖 Interested in AI / Agent / Computer Vision</big><br><br>
+<big>🎬 Exploring AI-powered video production</big><br><br>
+<big>🧠 Learning how to build AI applications</big><br><br>
+<big>🌏 Interested in travel & technology</big>
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 ## 🛠️ What I'm Working On
 
-🤖 AI Agent<br>
-👁️ Computer Vision<br>
-🎬 AI Video Generation<br>
-🧩 Open Source Projects<br>
-🌐 Intelligent Travel Applications
+<big>🤖 AI Agent</big><br><br>
+<big>👁️ Computer Vision</big><br><br>
+<big>🎬 AI Video Generation</big><br><br>
+<big>🧩 Open Source Projects</big><br><br>
+<big>🌐 Intelligent Travel Applications</big>
 
 </td>
+
 </tr>
 </table>
 
@@ -42,9 +44,15 @@
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
+<div align="center">
+
+<big>
 `AI Agents` · `Multimodal AI` · `RAG` · `LLM Applications` · `AI Video`
+</big>
+
+</div>
 
 ---
 
