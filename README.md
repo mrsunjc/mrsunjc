@@ -52,9 +52,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrsunjc&show_icons=true&hide_border=true&count_private=true" height="165">
+<a href="https://github.com/mrsunjc">
+  <img src="https://img.shields.io/github/followers/mrsunjc?style=flat&label=Followers">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsunjc&layout=compact&hide_border=true" height="165">
+<a href="https://github.com/mrsunjc">
+  <img src="https://img.shields.io/github/stars/mrsunjc?style=flat&label=Total%20Stars">
+</a>
+
+<a href="https://github.com/mrsunjc">
+  <img src="https://img.shields.io/github/repos/mrsunjc?style=flat&label=Repositories">
+</a>
 
 </div>
 
