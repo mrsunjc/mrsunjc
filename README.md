@@ -48,22 +48,6 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/mrsunjc">
-  <img src="https://img.shields.io/github/followers/mrsunjc?style=flat&label=Followers">
-</a>
-
-<a href="https://github.com/mrsunjc">
-  <img src="https://img.shields.io/github/stars/mrsunjc?style=flat&label=Total%20Stars">
-</a>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
