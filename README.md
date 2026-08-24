@@ -32,22 +32,6 @@
 
 ---
 
-## 💻 Tech Stack
-
-**Languages & Development**
-
-`Python` `C++` `JavaScript` `Node.js`
-
-**AI / Machine Learning**
-
-`PyTorch` `OpenCV` `Computer Vision`
-
-**Tools & Infrastructure**
-
-`Git` `React` `Docker`
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
