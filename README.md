@@ -2,7 +2,6 @@
 
 > Computer Engineering Student · AI · Agent · Computer Vision · Open Source
 
----
 
 ## 🚀 About Me
 
@@ -12,7 +11,6 @@
 - 🧠 Learning how to build AI applications
 - 🌏 Interested in travel & technology
 
----
 
 ## 🛠️ What I'm Working On
 
@@ -22,24 +20,7 @@
 - 🧩 Open Source Projects
 - 🌐 Intelligent Travel Applications
 
----
 
-## 📚 My Projects
-
-- 🎬 AI Video Production
-- 🤖 Agent Development
-- 👁️ Person Re-identification
-- 🌏 Smart Travel Planning
-- 🧠 AI + Computer Vision
-
----
-
-## 💻 Tech Stack
-
-`Python` `C++` `PyTorch` `OpenCV` `Git`  
-`JavaScript` `Node.js` `React` `Docker`
-
----
 
 ## 📌 Featured Projects
 
