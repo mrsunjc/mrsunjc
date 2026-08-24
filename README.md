@@ -90,6 +90,28 @@ Combining AI models with computer vision to build practical applications.
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrsunjc&show_icons=true&hide_border=true&count_private=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsunjc&layout=compact&hide_border=true" height="165">
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mrsunjc/mrsunjc/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
 ### 🌱 Currently Learning
 
 `AI Agents` · `Multimodal AI` · `RAG` · `LLM Applications` · `AI Video`
