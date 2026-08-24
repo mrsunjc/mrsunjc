@@ -2,25 +2,21 @@
 
 > Computer Engineering Student · AI · Agent · Computer Vision · Open Source
 
-
 ## 🚀 About Me
 
- 🎓 Computer Engineering undergraduate<br>
- 🤖 Interested in AI / Agent / Computer Vision<br>
- 🎬 Exploring AI-powered video production
- 🧠 Learning how to build AI applications
- 🌏 Interested in travel & technology
-
+   🎓 Computer Engineering undergraduate<br>
+   🤖 Interested in AI / Agent / Computer Vision<br>
+   🎬 Exploring AI-powered video production<br>
+   🧠 Learning how to build AI applications<br>
+   🌏 Interested in travel & technology
 
 ## 🛠️ What I'm Working On
 
-- 🤖 AI Agent
-- 👁️ Computer Vision
-- 🎬 AI Video Generation
-- 🧩 Open Source Projects
-- 🌐 Intelligent Travel Applications
-
-
+   🤖 AI Agent<br>
+   👁️ Computer Vision<br>
+   🎬 AI Video Generation<br>
+   🧩 Open Source Projects<br>
+   🌐 Intelligent Travel Applications
 
 ## 📌 Featured Projects
 
