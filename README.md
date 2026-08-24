@@ -32,42 +32,6 @@
 
 ---
 
-## 📚 My Projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🎬 AI Video Production
-
-Exploring AI-powered and automated video production workflows.
-
-### 🤖 Agent Development
-
-Building intelligent AI agents and experimenting with agent workflows.
-
-### 👁️ Person Re-identification
-
-Computer vision projects focused on person re-identification.
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🌏 Smart Travel Planning
-
-Exploring intelligent applications for personalized travel planning.
-
-### 🧠 AI + Computer Vision
-
-Combining AI models with computer vision to build practical applications.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💻 Tech Stack
 
 **Languages & Development**
@@ -81,12 +45,6 @@ Combining AI models with computer vision to build practical applications.
 **Tools & Infrastructure**
 
 `Git` `React` `Docker`
-
----
-
-## 📌 Featured Projects
-
-> Check out my pinned repositories below 👇
 
 ---
 
