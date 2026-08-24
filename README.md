@@ -5,19 +5,19 @@
 <table width="100%">
 <tr>
 
-<td valign="top" width="50%" align="center">
+<td valign="top" width="33.33%" align="center">
 
 ## 🚀 About Me
 
 <big>🎓 Computer Engineering undergraduate</big><br><br>
-<big>🤖 Interested in AI / Agent / Computer Vision</big><br><br>
-<big>🎬 Exploring AI-powered video production</big><br><br>
-<big>🧠 Learning how to build AI applications</big><br><br>
-<big>🌏 Interested in travel & technology</big>
+<big>🤖 AI / Agent / Computer Vision</big><br><br>
+<big>🎬 AI-powered video production</big><br><br>
+<big>🧠 Building AI applications</big><br><br>
+<big>🌏 Travel & Technology</big>
 
 </td>
 
-<td valign="top" width="50%" align="center">
+<td valign="top" width="33.33%" align="center">
 
 ## 🛠️ What I'm Working On
 
@@ -26,6 +26,18 @@
 <big>🎬 AI Video Generation</big><br><br>
 <big>🧩 Open Source Projects</big><br><br>
 <big>🌐 Intelligent Travel Applications</big>
+
+</td>
+
+<td valign="top" width="33.33%" align="center">
+
+## 🌱 Currently Learning
+
+<big>🤖 AI Agents</big><br><br>
+<big>🧠 Multimodal AI</big><br><br>
+<big>🔎 RAG</big><br><br>
+<big>💬 LLM Applications</big><br><br>
+<big>🎬 AI Video</big>
 
 </td>
 
@@ -39,18 +51,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/mrsunjc/mrsunjc/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<big>
-`AI Agents` · `Multimodal AI` · `RAG` · `LLM Applications` · `AI Video`
-</big>
 
 </div>
 
