@@ -1,86 +1,101 @@
 # 👋 Hi, I'm JC
 
-> **AI · Agent · Computer Vision · Open Source**
+> **Computer Engineering Student · AI · Agent · Computer Vision · Open Source**
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-🎓 Computer Engineering Student<br>
-🤖 AI / Agent Developer<br>
-👁️ Computer Vision Enthusiast<br>
-🎬 AI Video Creator<br>
-🌏 Travel & Technology
+🎓 Computer Engineering undergraduate<br>
+🤖 Interested in AI / Agent / Computer Vision<br>
+🎬 Exploring AI-powered video production<br>
+🧠 Learning how to build AI applications<br>
+🌏 Interested in travel & technology
 
 </td>
 
 <td valign="top" width="50%">
 
-## 🔥 Currently Exploring
+## 🛠️ What I'm Working On
 
 🤖 AI Agent<br>
-🎬 AI Video Generation<br>
 👁️ Computer Vision<br>
-🧠 Multimodal AI<br>
-🌐 Intelligent Applications
+🎬 AI Video Generation<br>
+🧩 Open Source Projects<br>
+🌐 Intelligent Travel Applications
 
 </td>
 </tr>
 </table>
-
-## 🛠️ Tech Stack
-
-**AI / ML**
-`Python` · `PyTorch` · `OpenCV`
-
-**Development**
-`C++` · `JavaScript` · `Node.js` · `Git`
-
-**AI Tools**
-`LLM` · `Agent` · `RAG` · `Computer Vision`
-
-## 📦 Featured Projects
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🤖 AI Agent
-
-Building intelligent agents and AI-powered applications.
-
-</td>
-
-<td valign="top" width="33%">
-
-### 🎬 AI Video
-
-Exploring automated AI video production pipelines.
-
-</td>
-
-<td valign="top" width="33%">
-
-### 👁️ Computer Vision
-
-Working on computer vision and person re-identification.
-
-</td>
-</tr>
-</table>
-
-## 📊 GitHub
-
-<a href="https://github.com/chenjin-cmd">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenjin-cmd&show_icons=true&hide_border=true&count_private=true" height="165">
-</a>
-
-<a href="https://github.com/chenjin-cmd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjin-cmd&layout=compact&hide_border=true" height="165">
-</a>
 
 ---
 
-> **Build something useful. Learn something new. Keep moving. 🚀**
+## 📚 My Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎬 AI Video Production
+
+Exploring AI-powered and automated video production workflows.
+
+### 🤖 Agent Development
+
+Building intelligent AI agents and experimenting with agent workflows.
+
+### 👁️ Person Re-identification
+
+Computer vision projects focused on person re-identification.
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🌏 Smart Travel Planning
+
+Exploring intelligent applications for personalized travel planning.
+
+### 🧠 AI + Computer Vision
+
+Combining AI models with computer vision to build practical applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Development**
+
+`Python` `C++` `JavaScript` `Node.js`
+
+**AI / Machine Learning**
+
+`PyTorch` `OpenCV` `Computer Vision`
+
+**Tools & Infrastructure**
+
+`Git` `React` `Docker`
+
+---
+
+## 📌 Featured Projects
+
+> Check out my pinned repositories below 👇
+
+---
+
+### 🌱 Currently Learning
+
+`AI Agents` · `Multimodal AI` · `RAG` · `LLM Applications` · `AI Video`
+
+---
+
+> **Build something useful.**  
+> **Learn something new.**  
+> **Keep moving. 🚀**
