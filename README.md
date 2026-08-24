@@ -60,10 +60,6 @@
   <img src="https://img.shields.io/github/stars/mrsunjc?style=flat&label=Total%20Stars">
 </a>
 
-<a href="https://github.com/mrsunjc">
-  <img src="https://img.shields.io/github/repos/mrsunjc?style=flat&label=Repositories">
-</a>
-
 </div>
 
 ---
