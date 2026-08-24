@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm JC
 
-<!--
-**mrsunjc/mrsunjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Computer Engineering Student · AI · Agent · Computer Vision · Open Source
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Engineering undergraduate
+- 🤖 Interested in AI / Agent / Computer Vision
+- 🎬 Exploring AI-powered video production
+- 🧠 Learning how to build AI applications
+- 🌏 Interested in travel & technology
+
+---
+
+## 🛠️ What I'm Working On
+
+- 🤖 AI Agent
+- 👁️ Computer Vision
+- 🎬 AI Video Generation
+- 🧩 Open Source Projects
+- 🌐 Intelligent Travel Applications
+
+---
+
+## 📚 My Projects
+
+- 🎬 AI Video Production
+- 🤖 Agent Development
+- 👁️ Person Re-identification
+- 🌏 Smart Travel Planning
+- 🧠 AI + Computer Vision
+
+---
+
+## 💻 Tech Stack
+
+`Python` `C++` `PyTorch` `OpenCV` `Git`  
+`JavaScript` `Node.js` `React` `Docker`
+
+---
+
+## 📌 Featured Projects
+
+Check out my pinned repositories below 👇
