@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
- 🎓 Computer Engineering undergraduate
- 🤖 Interested in AI / Agent / Computer Vision
+ 🎓 Computer Engineering undergraduate<br>
+ 🤖 Interested in AI / Agent / Computer Vision<br>
  🎬 Exploring AI-powered video production
  🧠 Learning how to build AI applications
  🌏 Interested in travel & technology
