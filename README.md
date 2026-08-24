@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JC
+# 👋 Hi, I'm JC ☀️
 
 > **Computer Engineering Student · AI · Agent · Computer Vision · Open Source**
 
